@@ -2,7 +2,7 @@
 
 I'm Martin!  
 I like building useful projects with Linux, networking, web development, and self-hosted tools.
-I am also available to be hired for projects. You can look at my webpage www.pokorny-martin.com and find my contact there or contact me on linked in www.linkedin.com/in/martin-pokorny-aa77b4310.
+I am also available to be hired for projects. You can look at my webpage <www.pokorny-martin.com> and find my contact there or contact me on linked in <www.linkedin.com/in/martin-pokorny-aa77b4310>.
 
 ## 🚀 About Me
 
@@ -59,9 +59,9 @@ I am also available to be hired for projects. You can look at my webpage www.pok
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grufyeti&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grufyeti&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=Grufyeti)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinkopoky-wq]&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinkopoky-wq]&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=martinkopoky-wq])
 
 ## 🧠 Fun Fact
 
@@ -69,6 +69,6 @@ I enjoy combining coding, servers, networking, and automation into practical rea
 
 ## 📫 Contact
 
-- GitHub: [@Grufyeti](https://github.com/Grufyeti)
-- Website: www.pokorny-martin.com
-- Email: martinkopoky@gmail.com
+- GitHub: [@martinkopoky-wq](https://github.com/Grufyeti)
+- Website: <www.pokorny-martin.com>
+- Email: <martinkopoky@gmail.com>
