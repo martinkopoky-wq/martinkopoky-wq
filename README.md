@@ -59,8 +59,8 @@ I am also available to be hired for projects. You can look at my webpage <www.po
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinkopoky-wq]&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinkopoky-wq]&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinkopoky-wq&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinkopoky-wq&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=martinkopoky-wq])
 
 ## 🧠 Fun Fact
